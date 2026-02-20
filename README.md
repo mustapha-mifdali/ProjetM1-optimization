@@ -30,7 +30,7 @@ Le code a été découpé de manière modulaire pour séparer la logique des alg
     python experiment.py
     ```
 
-## 📊 Protocole Expérimental
+## Protocole Expérimental
 
 Le script `experiment.py` va automatiquement tester les algorithmes suivants sur l'instance configurée :
 1.  **Hill-Climbing (First Improvement)**
